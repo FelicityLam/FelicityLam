@@ -1,6 +1,6 @@
-* 👋 Hi, I’m @Tingji2419, a student from Nanjing University
-* 🌱 I’m currently learning controling automation, interested in ML、CV knowledges
-* 📫 How to reach me
+* 👋 Hi, I’m @FelicityLam, a student from Nanjing University
+* 🌱 I’m currently majored in Financial Engineering, interested in financial modeling
+* 📫 How to reach me: 181870113@smail.nju.edu.cn
 
 <!--
 **FelicityLam/FelicityLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
