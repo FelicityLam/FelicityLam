@@ -1,4 +1,6 @@
-### Hi there 👋
+* 👋 Hi, I’m @Tingji2419, a student from Nanjing University
+* 🌱 I’m currently learning controling automation, interested in ML、CV knowledges
+* 📫 How to reach me
 
 <!--
 **FelicityLam/FelicityLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
