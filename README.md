@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @FelicityLam, a student from Peking University
-* 🌱 I’m currently learing Financial Engineering & Economics, interested in financial modeling
+* 🌱 I’m currently learing Financial Engineering & Economics, interested in derivatives & factor investing
 * 📫 How to reach me: felicity_lin@qq.com
 
 <!--
